@@ -1,0 +1,11 @@
+title: Devon Youth Wind Orchestra
+baseurl: ""
+url: "https://yourusername.github.io"
+theme: minima
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
