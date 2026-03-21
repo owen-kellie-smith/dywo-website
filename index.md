@@ -5,6 +5,7 @@ title: HOME
 
 The Devon Youth Wind Orchestra (DYWO) is a symphonic wind orchestra for young musicians from across Devon.
 
+
 Open to intermediate and advanced brass, wind, and percussion players, DYWO provides an opportunity for young musicians to enhance their skills while enjoying a diverse range of music. We offer young musicians the opportunity to improve their musicianship, while playing a fun and varied selection of music.
 
 We meet monthly and  hold a residential weekend every year. We play at several different events and venues throughout the year, providing valuable performing experience that helps build self confidence.
