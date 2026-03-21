@@ -223,3 +223,41 @@ th, td {
     font-weight: bold;
   }
 }
+
+/* HEADING and IMAGE AT TOP OF SCREEN UNDER MENU */
+
+.h1-with-image {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  gap: 20px;
+  padding: 10px;
+}
+
+.h1-with-image img.headline-image {
+  width: 150px; /* adjust as needed */
+  height: auto;
+  border-radius: 8px; /* optional */
+}
+
+.h1-with-image h1 {
+  margin: 0;
+  font-size: 3.5rem;
+}
+
+@media (max-width: 768px) {
+  .h1-with-image {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .h1-with-image h1 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+
+  .h1-with-image img.headline-image {
+    width: 100px;
+    margin-bottom: 10px;
+  }
+}

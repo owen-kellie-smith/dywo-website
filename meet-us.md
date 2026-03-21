@@ -1,8 +1,9 @@
 ---
 layout: gallery
 title: MEET US
+headline: The Committee
+
 ---
-# The Committee
 
 
 ## Steve Grant – Musical Director

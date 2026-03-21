@@ -1,9 +1,9 @@
 ---
 layout: default
 title: JOIN US
----
+headline: Join us
 
-# Join us
+---
 
 If you're thinking of joining us, come along to one of our open rehearsals and try it out. We start rehearsals in September, and the final rehearsal is in July. Please contact us in for any additional information regarding DYWO.
 

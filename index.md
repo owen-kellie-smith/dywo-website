@@ -1,9 +1,10 @@
 ---
 layout: default
 title: HOME
----
+headline: Devon Youth Wind Orchestra
 
-# Devon Youth Wind Orchestra
+
+---
 
 The Devon Youth Wind Orchestra (DYWO) is a symphonic wind orchestra for young musicians from across Devon.
 

@@ -1,9 +1,8 @@
 ---
 layout: default
 title: CONTACT
+headline: Contact Us
 ---
-
-# Contact Us
 
 If you have any questions or you'd like to know more, get in touch with us in one of the following ways. We'd love to hear from you!
 

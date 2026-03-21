@@ -1,9 +1,9 @@
 ---
 layout: default
 title: ABOUT US
----
+headline: About Us
 
-# About Us
+---
 
 The Devon Youth Wind Orchestra (DYWO) is a symphonic wind orchestra designed for young musicians from across Devon. It welcomes intermediate and advanced brass, wind, and percussion players.
 

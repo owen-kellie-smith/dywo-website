@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Events
+headline: Upcoming events
 ---
-
-# Upcoming events
 
 ## DYWO Calendar of Events 2025/2026
 
