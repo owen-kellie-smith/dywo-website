@@ -9,7 +9,7 @@ If you have any questions or you'd like to know more, get in touch with us in on
 
 Email:
 
-[dywo@hotmail.co.uk]mailto:dywo@hotmail.co.uk)
+[dywo@hotmail.co.uk](mailto:dywo@hotmail.co.uk)
 
 OR
 
