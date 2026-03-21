@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: ABOUT US
 headline: About Us
 

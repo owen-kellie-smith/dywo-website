@@ -2,9 +2,31 @@
 layout: base
 ---
 
-  <main class="body-container">
-   <div class="gallery">
-    {{ content }}
-   </div>
-  </main>
 
+<div class="container">
+
+  <!-- Conductor -->
+  <div class="conductor">
+    <img src="{{ page.conductor.image | relative_url }}" alt="{{ page.conductor.name }}">
+    <div class="conductor-info">
+      <h2>{{ page.conductor.name }}</h2>
+      <h4>{{ page.conductor.role }}</h4>
+      <p>{{ page.conductor.bio }}</p>
+    </div>
+  </div>
+
+  <!-- Committee -->
+  <div class="committee">
+    {% for member in page.committee %}
+      <div class="member">
+        <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
+        <h3>{{ member.name }}</h3>
+        <p>{{ member.role }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+    {{ content }}
+
+<h1>This is gallery layout</h1>

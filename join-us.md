@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: JOIN US
 headline: Join us
 
