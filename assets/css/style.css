@@ -1,9 +1,9 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   background: #ffffff;
-  color: #111;
+  color: rgb(65,65,65);
   line-height: 1.6;
 }
 

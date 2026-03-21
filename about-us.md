@@ -5,8 +5,12 @@ title: ABOUT US
 
 The Devon Youth Wind Orchestra (DYWO) is a symphonic wind orchestra designed for young musicians from across Devon. It welcomes intermediate and advanced brass, wind, and percussion players.
 
+<p> </p>
+<p> </p>
+<p> </p>
  
 Under the direction of Steve Grant, DYWO provides a distinctive chance for members to enhance their musicianship and ensemble skills in a friendly and inviting atmosphere. Membership includes 8-10 Gathering Days (rehearsals) each year professional coaches, a weekend residential, multiple performance opportunities, and the chance to participate in biannual European tours.
+
 
 # Gathering Days
 
