@@ -162,7 +162,7 @@ h2{
 }
 .nav a.active {
   color: #ffffff;          /* white text */
-  background-color: #000000; /* black background */
+  background-color: rgb(54, 100, 191); /* blue background */
   padding: 0.5rem 1rem;    /* some padding so background shows */
   border-radius: 4px;      /* optional, makes it look neat */
   font-weight: bold;        /* emphasize */
