@@ -62,8 +62,8 @@ header .logo { font-weight:bold; font-size:1.5rem; }
 
 /* Gallery */
 .gallery img {
-  width: 1in;          /* roughly 1 inch wide */
-  height: 1in;         /* roughly 1 inch tall */
+  width: 216px;   
+  height: 216px;   
   border-radius: 50%;  /* makes the image circular */
   object-fit: cover;   /* ensures the image fills the circle without distortion */
   display: block;      /* optional, removes inline spacing */
