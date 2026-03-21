@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+</head>
+
+<body>
+  <header class="container">
+    <div class="mobile-header">
+      <div class="hamburger" id="hamburger" onclick="toggleMenu()">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <div class="logo">DYWO</div>
+    </div>
+
+    <nav class="nav" id="nav-menu">
+      <a href="{{ site.baseurl }}/index.html">HOME</a>
+      <a href="{{ site.baseurl }}/about-us.html">ABOUT US</a>
+      <a href="{{ site.baseurl }}/meet-us.html">MEET US</a>
+      <a href="{{ site.baseurl }}/join-us.html">JOIN US</a>
+      <a href="{{ site.baseurl }}/events.html">EVENTS</a>
+      <a href="{{ site.baseurl }}/contact.html">CONTACT</a>
+    </nav>
+  </header>
+
+  <main class="body-container">
+   <div class="gallery">
+    {{ content }}
+   </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Devon Youth Wind Orchestra | <a href="https://github.com/owen-kellie-smith/dywo-website">Edit v0.0.1</a></p>
+  </footer>
+
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+
+</body>
+</html>
