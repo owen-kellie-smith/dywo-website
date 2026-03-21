@@ -166,6 +166,22 @@ h2{
   font-weight: bold;        /* emphasize */
 }
 
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid #eaeaea; /* faint border */
+}
+
+td, th {
+  border: 1px solid rgba(0,0,0,0.08);
+}
+
+th, td {
+  padding: 8px;
+}
+
 /* TABLE AS CARDS ON NARROW SCREEN */
 @media (max-width: 600px) {
   table, thead, tbody, tr, td, th {

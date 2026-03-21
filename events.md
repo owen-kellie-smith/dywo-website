@@ -24,7 +24,7 @@ title: Events
 |March 21st | Gathering Day 8 | Exeter School|
 |April 25th |Gathering Day 9 | Withycombe Raleigh C of E Primary School, Exmouth|
 |May 16th|Gathering Day 10 |Exeter School
-|May 23rd|Devon County Show Concert  Performance Time tbc||
+|May 23rd|Devon County Show Concert  Performance Time tbc**||
 |June 20th|Gathering Day 11 10am - 4pm & Concert 3pm|St John the Evangelist, Withycombe Raleigh|
 |July 3rd - 6th|TOUR to BELGIUM|
 
@@ -32,21 +32,19 @@ title: Events
 
 All Gathering Days take place on Saturdays unless otherwise stated, at Exeter School or Withycombe Raleigh C of E Primary School, Exmouth between 10am – 4.15pm
 
-​​
+<!-- 2 spaces at the end of each line and the address formats with a newline each line --> 
 
-Exeter School
-Emsleigh House, Victoria Park Road
-Exeter
-EX2 4NS
+Exeter School  
+Emsleigh House, Victoria Park Road  
+Exeter  
+EX2 4NS  
 
-​
 
-Withycombe Raleigh C of E Primary School
-Withycombe Village Road
-Exmouth
-EX8 3BA
+Withycombe Raleigh C of E Primary School  
+Withycombe Village Road  
+Exmouth  
+EX8 3BA  
 
-​
 
 **tbc (To Be Confirmed) Precise details will be given on performances when the events are confirmed!
 
