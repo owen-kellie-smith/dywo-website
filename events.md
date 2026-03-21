@@ -56,5 +56,5 @@ Please put all dates in your diary!
 
 New members are always welcome just email [dywo@hotmail.co.uk](mailto:dywo@hotmail.co.uk)
 
-or [ring Steve](tel:07810806627) on [07810 806627](tel:07810806627)
+or [ring Steve](tel:+447810806627) on [07810 806627](tel:+447810806627)
 
