@@ -1,0 +1,24 @@
+---
+layout: base
+---
+
+
+<div class="container">
+
+<div class="committee_content gallery">
+    {{ content }}
+</div>
+
+  <!-- Committee -->
+  <div class="committee gallery">
+    {% for member in page.committee %}
+      <div class="member">
+        <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
+        <h3>{{ member.name }}</h3>
+        <p>{{ member.role }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+

@@ -75,6 +75,7 @@ header.container {
   border-radius: 50%;  /* makes the image circular */
   object-fit: cover;   /* ensures the image fills the circle without distortion */
   display: block;      /* optional, removes inline spacing */
+  margin: 0 auto; /* centers the image */
 }
 
 /* Footer */
@@ -261,3 +262,26 @@ th, td {
     margin-bottom: 10px;
   }
 }
+
+.committee {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.committee_content h4{
+    margin-bottom: 1.5rem;
+    font-weight: normal;
+}
+.committee_content{
+  text-align: center;
+}
+.member {
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .committee {
+    grid-template-columns: 1fr; /* stacked list */
+    justify-items: center;
+  }
+}
+
