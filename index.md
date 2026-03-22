@@ -18,3 +18,10 @@ We gather monthly and host an annual residential weekend. Throughout the year, w
 
 We warmly welcome new members, so feel free to get in touch regarding a free trial to experience what we have to offer. 
 
+---
+
+📄 [DYWO Flyer 25-26](assets/pdf/flyer2526.pdf)
+
+📄 [DYWO Privacy Policy](assets/pdf/privacy.pdf)
+
+📄 [DYWO Safeguarding and Child Protection Policy](assets/pdf/safeguarding.pdf)

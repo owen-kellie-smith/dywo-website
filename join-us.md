@@ -14,3 +14,10 @@ If you've missed one of these dates, don't worry! We allow new orchestra members
 ​
 
 Our 2024-2025 application form is now available. Please click below.
+<p>
+<a class="centred smooth" href="https://docs.google.com/forms/d/e/1FAIpQLSfarQYtI4VXHrIFDNAZh4PI_5lrZaCZ_QWBw9e6ptELYu5Aew/viewform" target="_blank">
+Click here to join us
+</a>
+</p>
+
+<p><img class="centred" src="{{ '/assets/images/flyer2023.avif' | relative_url }}" alt="2023 flyer" /></p>

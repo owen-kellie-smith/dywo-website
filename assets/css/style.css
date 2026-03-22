@@ -1,8 +1,11 @@
-/* Import Montserrat with the weights you want */
+/* Import fonts with the weights you want */
+/*
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&display=swap');
+*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;900&display=swap');
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   color: rgb(65,65,65);
   line-height: 1.8;
@@ -15,8 +18,13 @@ h1,h2{
 h1{
   margin-top: 1.5rem;
   font-size: 60px;
+  font-weight: 700;
   text-align: center;
   margin-bottom: 2.5rem;
+  text-shadow: rgba(0, 0, 0, 0.498) -1px -1px 0px,
+             rgba(0, 0, 0, 0.498) -1px 1px 0px,
+             rgba(0, 0, 0, 0.498) 1px 1px 0px,
+             rgba(0, 0, 0, 0.498) 1px -1px 0px;
 }
 
 h2{
@@ -29,8 +37,29 @@ p {
   margin-bottom: 1.5rem;
 }
 
+.centred {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* optional: set a max width */
+  max-width: 100%;
+}
+
 a { text-decoration:none; color:#111; }
 a:hover { opacity:0.7; }
+
+a.smooth {
+  text-align: center;
+  text-transform: uppercase;
+  background-color: rgb(54, 100, 191); /* Blue color */
+  color: white;              /* Text color */
+  border: none;              /* Remove default border */
+  padding: 10px 20px;        /* Vertical and horizontal padding */
+  font-size: 16px;           /* Text size */
+  cursor: pointer;           /* Pointer on hover */
+  border-radius: 0;          /* Rectangle corners */
+}
+
 
 .body-container {
   position: relative;
@@ -40,6 +69,7 @@ a:hover { opacity:0.7; }
   max-width: 95%;
 }
 .container { width:90%; max-width:1200px; margin:0 auto; }
+
 
 /* Header */
 header { display:flex; justify-content:center; align-items:center; padding:1rem 0; border-bottom:1px solid #ddd; background:#fff; }
