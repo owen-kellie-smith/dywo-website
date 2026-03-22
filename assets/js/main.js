@@ -11,7 +11,7 @@ function toggleMenu() {
   const navLinks = document.querySelectorAll('.nav a');
 
   // Get current page path (e.g., "/about-us.html")
-  const currentPage = window.location.pathname.split('/').pop();
+  const currentPage = window.location.pathname.split('/').pop() || "index.html";
 
   navLinks.forEach(link => {
     // Get the href of the link (just the filename)
