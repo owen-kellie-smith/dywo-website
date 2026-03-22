@@ -1,0 +1,16 @@
+title: Devon Youth Wind Orchestra
+baseurl: ""
+url: "https://owen-kellie-smith.github.io"
+theme: minima
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
