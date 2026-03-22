@@ -73,3 +73,9 @@ _layout			- Page format
 3. Set source to **main branch / root folder**
 4. Site goes live at `https://<username>.github.io/<repo>/` ie in this case at `https://owen-kellie-smith.github.io/dywo-website/`
 
+
+---
+
+## Weird gotcha
+
+`_config.yml` needs baseurl=<repo-name> on github but baseurl="" on local machine.
