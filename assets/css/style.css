@@ -114,6 +114,14 @@ header.container {
 }
 
 /* Footer */
+.feed-wrap {
+  display: flex;           /* Use flexbox layout */
+  flex-direction: column;  /* Stack children vertically */
+  align-items: center;     /* Center children horizontally */
+  text-align: center;      /* Center text inside children */
+  gap: 1rem;               /* Optional spacing between children */
+  padding: 2rem;           /* Optional padding */
+}
 footer { text-align:center; padding:2rem 1rem; background:#f9f9f9; font-size:0.85rem; color:#555; margin-top:3rem; }
 /* Hamburger lines */
 .hamburger {
@@ -319,9 +327,6 @@ th, td {
     justify-items: center;
   }
 
-  img.footer-image{
-    max-width: 80%;
-  }
 
 }
 
