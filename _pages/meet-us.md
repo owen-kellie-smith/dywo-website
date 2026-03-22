@@ -33,7 +33,7 @@ committee:
     image: /assets/images/Logo_edited.avif
 ---
 
-![Steve Grant with baton](/assets/images/steve_green_seats_33pc.avif)
+<img src="{{ '/assets/images/steve_green_seats_33pc.avif' | relative_url }}" alt="Steve Grant with baton" />
 
 ### Steve Grant
 #### Musical Director
