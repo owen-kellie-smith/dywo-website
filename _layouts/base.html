@@ -25,12 +25,11 @@ layout: null
       </div>
     </div>
     <nav class="nav" id="nav-menu">
-      <a href="{{ site.baseurl }}/index.html">HOME</a>
-      <a href="{{ site.baseurl }}/about-us.html">ABOUT US</a>
-      <a href="{{ site.baseurl }}/meet-us.html">MEET US</a>
-      <a href="{{ site.baseurl }}/join-us.html">JOIN US</a>
-      <a href="{{ site.baseurl }}/events.html">EVENTS</a>
-      <a href="{{ site.baseurl }}/contact.html">CONTACT</a>
+      <a href="{{ site.baseurl }}/">HOME</a>
+      {% assign pages = site.pages | sort: "nav_order" %}
+      {% for page in pages %}
+        <a href="{{ page.url }}">{{ page.title }}</a>
+      {% endfor %}
     </nav>
   </header>
 

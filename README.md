@@ -25,7 +25,23 @@ The site updates automatically within a minute or two.
 4. Render the fork by creating a page (Settings -> Pages) running from your repo's root directory
 5. Create a pull request (that your changes be incorporated into the main site).
 
-**How to render the site on command line:**
+---
+
+# Typical edits
+
+## Add a page
+
+Copy one of the `.md` files in _pages. 
+
+Change its title (in the YAML front matter) i.e. in the text  above  the three lines at the top of the `.md`.
+Change its nav_order (in the YAML front matter). If you want it just after the page it copied then just add a little to the existing nav_order.
+
+
+## Add or delete an event
+
+Edit `_pages\events.md`.
+
+# How to render the site on command line:
 
 `jekyll serve`
 
@@ -40,7 +56,9 @@ and then browse to
 ## 🗂️ File structure
 
 ```
-*.md                    – Page content
+index.md                – Home Page content
+_pages/
+ *.md                   – Other page content
 assets/                 – photos and PDFs
   style.css             – Shared styles
 _layout			- Page format

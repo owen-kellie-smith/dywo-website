@@ -1,4 +1,5 @@
 ---
+nav_order: 7
 layout: page
 title: CONTACT
 headline: Contact Us

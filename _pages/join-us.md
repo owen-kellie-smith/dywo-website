@@ -1,4 +1,5 @@
 ---
+nav_order: 4
 layout: page
 title: JOIN US
 headline: Join us

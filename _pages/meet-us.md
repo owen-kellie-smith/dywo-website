@@ -1,4 +1,5 @@
 ---
+nav_order: 3
 layout: committee
 title: MEET US
 headline: The Committee

@@ -13,11 +13,10 @@ function toggleMenu() {
   // Get current page path (e.g., "/about-us.html")
   const currentPage = window.location.pathname.split('/').pop() || "index.html";
 
-  navLinks.forEach(link => {
-    // Get the href of the link (just the filename)
-    const linkPage = link.getAttribute('href').split('/').pop();
+const current = window.location.pathname;
 
-    if (linkPage === currentPage) {
-      link.classList.add('active');
-    }
-  });
+document.querySelectorAll('.nav a').forEach(link => {
+  if (link.pathname === current) {
+    link.classList.add('active');
+  }
+});

@@ -2,6 +2,7 @@
 layout: page
 title: ABOUT US
 headline: About Us
+nav_order: 2
 
 ---
 

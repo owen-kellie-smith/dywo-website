@@ -1,6 +1,7 @@
 ---
+nav_order: 5
 layout: page
-title: Events
+title: EVENTS
 headline: Upcoming events
 ---
 
