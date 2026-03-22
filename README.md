@@ -78,4 +78,4 @@ _layout			- Page format
 
 ## Weird gotcha
 
-`_config.yml` needs baseurl=<repo-name> on github but baseurl="" on local machine.
+`_config.yml` needs baseurl=&lt;repo-name&gt; on github but baseurl="" on local machine.
